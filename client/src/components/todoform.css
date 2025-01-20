@@ -1,0 +1,23 @@
+.todo-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  padding: 0 1rem;
+}
+
+.todo-title,.todo-description,.todo-submit{
+    margin: 0.5rem ;
+    padding: 1rem;
+}
+.todo-submit{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: 2px;
+}
+.todo-submit:hover{
+    background-color: rgb(1, 54, 1);
+    color: white;
+}
+

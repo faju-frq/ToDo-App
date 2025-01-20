@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment-timezone": "^0.5.46",
+    "react-simple-timestamp-to-date": "^1.0.3"
+  }
+}
